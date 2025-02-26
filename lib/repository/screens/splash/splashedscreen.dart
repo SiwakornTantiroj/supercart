@@ -29,7 +29,7 @@ class _SplashedscreenState extends State<Splashedscreen> {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [Uihelper.CustomImage(img: "splash.png")],
+          children: [Uihelper.customImage(img: "splash.png")],
         ),
       ),
     );
